@@ -1,4 +1,4 @@
-package TP4;
+package C4.TP4;
 
 import java.util.ArrayList;
 import java.util.Random;
